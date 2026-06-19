@@ -80,5 +80,9 @@ Source: https://github.com/FortAwesome/Font-Awesome
 
 == Changelog ==
 
+= 2.0.0 =
+* Hardening: 2.0.0 release — a11y (WCAG 1.4.12), review notice defaults, theme.json correctness, deploy.js parity with boilerplate.
+
+
 = 1.0.0 =
 * Initial release
