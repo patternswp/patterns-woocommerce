@@ -11,10 +11,10 @@ Primary color: `#FED700`.
 - 3 hero and landing patterns
 - 2 card layouts (card-1 through card-2)
 - 1 pricing/plan pattern
-- 9 archive/post-listing patterns
+- 5 archive/post-listing patterns
 - Contact page pattern (page-contact)
 - 1 menu navigation pattern
-- 13 commerce patterns (cart, checkout, product listings)
+- 17 commerce patterns (cart, checkout, product listings)
 - 16 section layout patterns (featured sections and section titles)
 - Full Site Editing (FSE) support
 - Responsive design
