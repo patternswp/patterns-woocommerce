@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Woocommerce_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Woocommerce_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-woocommerce/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Woocommerce_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
