@@ -30,7 +30,7 @@
 
 		<!-- wp:column {"width":"50%"} -->
 		<div class="wp-block-column" style="flex-basis:50%">
-			
+
 			<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":""left":"var:preset|spacing|60"}},"layout":{"type":"constrained","contentSize":"1320px"}} -->
 			<div class="wp-block-group alignwide">
 
@@ -38,7 +38,7 @@
 
 			</div>
 			<!-- /wp:group -->
-			
+
 		</div>
 		<!-- /wp:column -->
 

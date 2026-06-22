@@ -14,10 +14,10 @@
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0"}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-tertiary-background-color has-background">
-    
+
     <!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":{"left":"var:preset|spacing|80"}}}} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-top" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-        
+
         <!-- wp:column {"verticalAlignment":"top","width":"33.33%"} -->
         <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.33%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"bottom"}} -->
         <div class="wp-block-group">
@@ -48,7 +48,7 @@
         <!-- /wp:paragraph --></div>
         <!-- /wp:group -->
 
-        
+
 
         </div>
         <!-- /wp:column -->
@@ -84,7 +84,7 @@
             <!-- /wp:image -->
         </div>
         <!-- /wp:group -->
-        
+
         </div>
         <!-- /wp:column -->
 
@@ -104,7 +104,7 @@
 
             <!-- wp:navigation-link {"label":"<?php esc_html_e( 'Furniture', 'patterns-woocommerce' ); ?>","url":"#"} /-->
         <!-- /wp:navigation -->
-       
+
 
 
         </div>
@@ -124,26 +124,26 @@
 
             <!-- wp:navigation-link {"label":"<?php esc_html_e( 'Contact', 'patterns-woocommerce' ); ?>","url":"#"} /-->
         <!-- /wp:navigation -->
-        
+
         </div>
         <!-- /wp:group --></div>
         <!-- /wp:group --></div>
         <!-- /wp:column -->
-    
+
     </div>
     <!-- /wp:columns -->
 
     <!-- wp:group {"align":"full","style":{"color":{"background":"#0000007a"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
     <div class="wp-block-group alignfull has-background" style="background-color:#0000007a;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
-    
+
     <!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
     <div class="wp-block-group alignwide">
 
-            <!-- wp:pattern {"slug":"patterns-woocommerce/copyright"} /-->        
+            <!-- wp:pattern {"slug":"patterns-woocommerce/copyright"} /-->
 
             <!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
             <div class="wp-block-group">
-                
+
                 <!-- wp:paragraph {"align":"left","textColor":"default","fontSize":"x-small"} -->
                 <p class="has-text-align-left has-default-color has-text-color has-x-small-font-size"><?php esc_html_e( 'Follow us', 'patterns-woocommerce' ); ?></p>
                 <!-- /wp:paragraph -->
@@ -156,7 +156,7 @@
                 <!-- wp:social-link {"url":"#","service":"whatsapp"} /--></ul>
                 <!-- /wp:social-links -->
 
-                
+
 
             </div>
             <!-- /wp:group -->

@@ -18,7 +18,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"textColor":"primary"} -->
 <p class="has-primary-color has-text-color"><?php esc_html_e( 'About us', 'patterns-woocommerce' ); ?></p>
 <!-- /wp:paragraph -->
@@ -47,7 +47,7 @@
 
 </div>
 <!-- /wp:group -->
- 
+
 
 
 </div>
@@ -62,13 +62,13 @@
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"30px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:pattern {"slug":"patterns-woocommerce/card-1"} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"horizontal"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"layout":{"selfStretch":"fixed","flexSize":"70px"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"dimensions":{"minHeight":"70px"},"border":{"radius":"100px"}},"backgroundColor":"quaternary","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
 <div class="wp-block-group has-quaternary-background-color has-background" style="border-radius:100px;min-height:70px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
-    
+
 <!-- wp:image {"width":"40px","height":"40px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-7.png" style="object-fit:cover;width:40px;height:40px"/></figure>
 <!-- /wp:image -->
@@ -90,7 +90,7 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"horizontal"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"layout":{"selfStretch":"fixed","flexSize":"70px"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"dimensions":{"minHeight":"70px"},"border":{"radius":"100px"}},"backgroundColor":"quaternary","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
 <div class="wp-block-group has-quaternary-background-color has-background" style="border-radius:100px;min-height:70px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
-    
+
 <!-- wp:image {"width":"40px","height":"40px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-8.png" style="object-fit:cover;width:40px;height:40px"/></figure>
 <!-- /wp:image -->

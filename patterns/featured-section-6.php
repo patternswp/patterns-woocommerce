@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|50"}},"backgroundColor":"quaternary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-quaternary-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-   
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","textColor":"primary"} -->
 <p class="has-text-align-center has-primary-color has-text-color"><?php esc_html_e( 'Top Sellers', 'patterns-woocommerce' ); ?></p>
@@ -89,8 +89,8 @@
     <!-- /wp:group -->
 
 
-    
-    
+
+
 </div>
 <!-- /wp:group -->
 

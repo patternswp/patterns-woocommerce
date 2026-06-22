@@ -6,7 +6,7 @@
  * Keywords: Page
  * Post Types: page
  * Description: A layout that displays checkout page.
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0

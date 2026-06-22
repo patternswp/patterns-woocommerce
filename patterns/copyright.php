@@ -13,7 +13,7 @@
 
 ?>
 <!-- wp:group {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|default"}}},"spacing":{"blockGap":"5px"}},"textColor":"default","fontSize":"x-small","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group alignwide has-default-color has-text-color has-link-color has-x-small-font-size">    
+<div class="wp-block-group alignwide has-default-color has-text-color has-link-color has-x-small-font-size">
 <!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"patterns-woocommerce/copyright","args":{"key":"copyright"}}}},"placeholder":"<?php esc_attr_e( 'Dynamic copyright text', 'patterns-woocommerce' ); ?>"} -->
 <p></p>
 <!-- /wp:paragraph -->

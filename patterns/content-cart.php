@@ -3,7 +3,7 @@
  * Title: Content Cart
  * Slug: patterns-woocommerce/content-cart
  * Categories: WooCommerce
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0
@@ -77,7 +77,7 @@
 
 <!-- wp:woocommerce/empty-cart-block -->
 <div class="wp-block-woocommerce-empty-cart-block">
-    
+
 <!-- wp:heading {"textAlign":"center","className":"with-empty-cart-icon wc-block-cart__empty-cart__title","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}}} -->
 <h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
 <?php echo esc_html__( 'Your cart is currently empty!', 'patterns-woocommerce' ); ?></h2>

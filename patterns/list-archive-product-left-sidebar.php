@@ -29,7 +29,7 @@
 
 		<!-- wp:column {"width":"70%"} -->
 		<div class="wp-block-column" style="flex-basis:70%">
-                
+
                 <!-- wp:woocommerce/store-notices /-->
 
                 <!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"quinary","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
@@ -37,11 +37,11 @@
 
                 <!-- wp:woocommerce/catalog-sorting /--></div>
                 <!-- /wp:group -->
-                
+
 
 				<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":""left":"var:preset|spacing|60"}},"layout":{"type":"constrained","contentSize":"1320px"}} -->
 				<div class="wp-block-group alignwide">
-					
+
 					<!-- wp:pattern {"slug":"patterns-woocommerce/query-product-three-column-grid"} /-->
 
 				</div>

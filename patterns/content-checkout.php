@@ -3,7 +3,7 @@
  * Title: Content Checkout
  * Slug: patterns-woocommerce/content-checkout
  * Categories: WooCommerce,checkout
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0

@@ -19,6 +19,6 @@
     <!-- wp:pattern {"slug":"patterns-woocommerce/woocommerce-stock-filter"} /-->
     <!-- wp:pattern {"slug":"patterns-woocommerce/woocommerce-attribute-filter"} /-->
     <!-- wp:pattern {"slug":"patterns-woocommerce/woocommerce-rating-filter"} /-->
-   
+
 </div>
 <!-- /wp:group -->

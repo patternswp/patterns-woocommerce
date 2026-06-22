@@ -1,12 +1,12 @@
 <?php
 /**
- * Title: Page My Account 
+ * Title: Page My Account
  * Slug: patterns-woocommerce/page-my-account
  * Categories: page, WooCommerce,account
  * Keywords: Page
  * Post Types: page
  * Description: A layout that displays account page.
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0

@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"metadata":{"name":"Hero Banner"},"align":"full","style":{"position":{"type":""}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull">
-    
+
 <!-- wp:pattern {"slug":"patterns-woocommerce/hero-banner-content"} /-->
 
 </div>
