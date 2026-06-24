@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"textColor":"primary"} -->
 <p class="has-primary-color has-text-color"><?php esc_html_e( 'Top Sellers', 'patterns-woocommerce' ); ?></p>
 <!-- /wp:paragraph -->

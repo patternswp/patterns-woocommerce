@@ -11,7 +11,7 @@
 
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"style":"solid","width":"1px"}},"borderColor":"quinary","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
-<div class="wp-block-group has-border-color has-quinary-border-color" style="border-style:solid;border-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">    
+<div class="wp-block-group has-border-color has-quinary-border-color" style="border-style:solid;border-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
 <!-- wp:woocommerce/product-image {"isDescendentOfQueryLoop":true,"width":"200px"} /-->
 
 <!-- wp:spacer {"height":"var:preset|spacing|10","style":{"layout":{}}} -->

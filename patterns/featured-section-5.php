@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"metadata":{},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|60"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-    
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","textColor":"primary"} -->
 <p class="has-text-align-center has-primary-color has-text-color"><?php esc_html_e( 'Top Sellers', 'patterns-woocommerce' ); ?></p>
@@ -26,7 +26,7 @@
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide">
-    
+
 
         <!-- wp:column {"width":"25%"} -->
         <div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"style":{"border":{"style":"solid","width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"borderColor":"quinary","layout":{"type":"constrained"}} -->
@@ -35,8 +35,8 @@
 
         <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-6.jpg","dimRatio":50,"overlayColor":"base","isUserOverlayColor":true,"contentPosition":"bottom center","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-cover has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-6.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-base-background-color has-background-dim"></span><div class="wp-block-cover__inner-container">
-            
-        
+
+
         <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
         <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group"><!-- wp:heading {"level":5} -->
@@ -62,18 +62,18 @@
 
         <!-- wp:column {"width":"75%"} -->
         <div class="wp-block-column" style="flex-basis:75%">
-            
+
         <!-- wp:query {"queryId":17,"query":{"inherit":false,"postType":"product","perPage":6,"sticky":"","parents":[],"format":[],"offset":0},"metadata":{"categories":["posts"],"patternName":"patterns-woocommerce/query-product-grid","name":"Query Product Grid"},"align":"wide","layout":{"type":"constrained"}} -->
         <div class="wp-block-query alignwide">
-            
+
         <!-- wp:post-template {"align":"full","layout":{"type":"grid","columnCount":3}} -->
             <!-- wp:pattern {"slug":"patterns-woocommerce/hidden-query-product-post-template-content"} /-->
-    
+
         <!-- /wp:post-template -->
 
         </div>
         <!-- /wp:query -->
-        
+
         </div>
         <!-- /wp:column -->
 </div>

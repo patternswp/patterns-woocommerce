@@ -4,7 +4,7 @@
  * Slug: patterns-woocommerce/single-product
  * Categories: single
 * Description: Display a single WooCommerce product—commonly used to feature a specific item with its image, price, description, and purchase options.
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0
@@ -15,12 +15,12 @@
 
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","className":"pwp-child-reset","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull pwp-child-reset">
-	
+
     <!-- wp:template-part {"slug":"single-header", "align":"full"} /-->
 
     <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"inherit":true,"type":"constrained"}} -->
     <div class="wp-block-group alignfull"
-        style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">  
+        style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
 
         <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
         <div class="wp-block-group alignfull">
@@ -29,7 +29,7 @@
 
 
             <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-            <div class="wp-block-group alignfull">    
+            <div class="wp-block-group alignfull">
 
                 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"80px"}}}} -->
                 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"512px"} -->
@@ -73,7 +73,7 @@
 
                 <!-- wp:woocommerce/related-products {"align":"wide"} -->
                 <div class="wp-block-woocommerce-related-products alignwide">
-                    
+
                 <!-- wp:query {"query":{"perPage":"4","pages":"4","offset":0,"postType":"product","order":"asc","orderBy":"title","author":"","search":"","exclude":[],"sticky":"","inherit":false},"namespace":"woocommerce/related-products","lock":{"remove":true,"move":true}} -->
                 <div class="wp-block-query">
 

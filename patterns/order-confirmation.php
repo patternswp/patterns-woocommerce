@@ -4,7 +4,7 @@
  * Slug: patterns-woocommerce/order-confirmation
  * Categories: order-confirmation
  * Description: A layout that displays order confirmation page.
- * 
+ *
  * @package    Patterns_Woocommerce
  * @subpackage Patterns_Woocommerce/patterns
  * @since      1.0.0

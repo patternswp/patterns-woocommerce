@@ -2,9 +2,9 @@
 
 Contributors: patternswp, codersantosh
 Requires at least: 6.6
-Tested up to: 6.7
+Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,10 +46,10 @@ Source: https://github.com/googlefonts/roboto
 === Images ===
 
 License: GNU GPL, Version 3, https://www.gnu.org/licenses/gpl-3.0.html
-patternswp-logo-default.png, 
-patternswp-logo-green.png, 
-patternswp-logo-white.png, 
-logo files (logo-1.png to logo-5.png), 
+patternswp-logo-default.png,
+patternswp-logo-green.png,
+patternswp-logo-white.png,
+logo files (logo-1.png to logo-5.png),
 
 License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
 
@@ -65,7 +65,7 @@ https://pxhere.com/en/photo/1594675
 
 === Icons Images ===
 
-Material Icons Font 
+Material Icons Font
 https://fonts.google.com/icons
 
 License: Apache License, Version 2.0, https://www.apache.org/licenses/LICENSE-2.0
@@ -79,6 +79,10 @@ License: Free Version: CC BY 4.0 License – https://creativecommons.org/license
 Source: https://github.com/FortAwesome/Font-Awesome
 
 == Changelog ==
+
+= 2.0.0 =
+* Hardening: 2.0.0 release — a11y (WCAG 1.4.12), review notice defaults, theme.json correctness, deploy.js parity with boilerplate.
+
 
 = 1.0.0 =
 * Initial release

@@ -37,11 +37,11 @@
 <!-- /wp:group -->
 
 <!-- wp:navigation {"openSubmenusOnClick":true,"overlayMenu":"never","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"x-small"} -->
-    
+
     <!-- wp:navigation-submenu  {"label":"<?php esc_html_e( 'usd', 'patterns-woocommerce' ); ?>","url":"#"} -->
         <!-- wp:navigation-link {"label":"<?php esc_html_e( 'euro', 'patterns-woocommerce' ); ?>","url":"#"} /-->
     <!-- /wp:navigation-submenu  -->
-    
+
 <!-- /wp:navigation -->
 
 <!-- wp:navigation {"openSubmenusOnClick":true,"overlayMenu":"never","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"x-small"} -->
@@ -50,7 +50,7 @@
         <!-- wp:navigation-link {"label":"<?php esc_html_e( 'German', 'patterns-woocommerce' ); ?>","url":"#"} /-->
         <!-- wp:navigation-link {"label":"<?php esc_html_e( 'Thailand', 'patterns-woocommerce' ); ?>","url":"#"} /-->
     <!-- /wp:navigation-submenu  -->
-    
+
 <!-- /wp:navigation -->
 
 
@@ -78,10 +78,10 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
 
     <!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"nowrap"}} -->
-    <div class="wp-block-group alignwide">	
-        
+    <div class="wp-block-group alignwide">
+
         <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
-            <div class="wp-block-group"> 
+            <div class="wp-block-group">
                 <!-- wp:pattern {"slug":"patterns-woocommerce/site-identity"} /-->
                 <!-- wp:pattern {"slug":"patterns-woocommerce/navigation-menu"} /-->
             </div>
@@ -92,7 +92,7 @@
 
         <!-- wp:woocommerce/customer-account {"displayStyle":"icon_only","iconStyle":"alt","iconClass":"wc-block-customer-account__account-icon"} /--></div>
         <!-- /wp:group -->
-    
+
 
     </div>
     <!-- /wp:group -->
@@ -104,9 +104,9 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide">
-   
+
  <!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search products…","buttonText":"Search","buttonPosition":"button-inside","buttonUseIcon":true,"query":{"post_type":"product"},"namespace":"woocommerce/product-search"} /-->
-    
+
 </div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

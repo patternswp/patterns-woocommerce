@@ -27,7 +27,7 @@
 				<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":""left":"var:preset|spacing|60"}},"layout":{"type":"constrained","contentSize":"1320px"}} -->
 				<div class="wp-block-group alignwide">
 
-					
+
 					<!-- wp:pattern {"slug":"patterns-woocommerce/query-product-three-column-grid"} /-->
 
 				</div>

@@ -21,4 +21,3 @@
 	require 'pagination.php';
 	require 'hidden-query-no-results.php';
 ?>
- 
